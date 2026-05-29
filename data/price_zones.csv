@@ -1,0 +1,6 @@
+zone,country,region,installed_capacity_gw,wind_capacity_gw,solar_capacity_gw,base_price_eur_mwh,annual_demand_twh,co2_intensity_gco2_kwh,market_type,currency
+DE,Germany,Central Europe,230,80.5,46.0,45,550,400,day_ahead_auction,EUR
+FR,France,Western Europe,140,21.0,16.8,42,480,60,day_ahead_auction,EUR
+UK,United Kingdom,Great Britain,100,30.0,10.0,55,320,200,day_ahead_auction,EUR
+ES,Spain,Iberian Peninsula,110,30.8,24.2,48,260,180,day_ahead_auction,EUR
+IT,Italy,Italy,120,14.4,30.0,65,310,300,day_ahead_auction,EUR
