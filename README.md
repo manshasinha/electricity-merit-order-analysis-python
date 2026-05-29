@@ -165,7 +165,7 @@ Run all cells sequentially
 
 ## Author and Contact
 
-Mansha Sinha
+Mansha Sinha |
 Analyst
 
 Email: manshasinha3110@gmail.com
