@@ -156,8 +156,8 @@ Run all cells sequentially
 
 ## Recommendations
 
-- **Energy Security:** Renewable capacity alone does not protect against commodity price shocks in the short run - the data supports accelerating renewable buildout alongside strategic gas storage reserves and demand flexibility mechanisms
-- **Storage Investment:** As renewable penetration increases beyond levels modelled here additional storage capacity will be required to manage surplus generation and maintain system flexibility
+- **Energy Security:** Renewable capacity alone may not fully protect electricity markets from commodity price shocks in the short run; complementary measures such as gas storage and demand flexibility remain important
+- **Storage Investment:** As renewable penetration increases beyond levels modelled here additional storage capacity may be required to manage surplus generation and maintain system flexibility
 - **Renewable Project Economics:** The post-crisis price floor of 38.6 EUR/MWh provides significantly stronger project economics for new renewable assets compared to the pre-crisis floor of 11.7 EUR/MWh
 - **Price Forecasting:** Gas price forecasting dominates renewable share analysis for near-term electricity price prediction - any model excluding commodity price dynamics will systematically underperform during supply disruption scenarios
 
